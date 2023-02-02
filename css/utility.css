@@ -1,0 +1,10 @@
+.container{
+    width: 1140px;
+    padding: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
